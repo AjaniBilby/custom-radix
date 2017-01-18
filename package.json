@@ -1,0 +1,17 @@
+{
+  "name": "custom-radix",
+  "version": "1.0.1",
+  "description": "Customizeable Radix Encoder",
+  "main": "radix.js",
+  "scripts": {},
+  "keywords": [
+    "radix",
+    "customizable",
+    "encoder",
+    "decoder",
+    "base64"
+  ],
+  "repository": "https://github.com/Hobgoblin101/custom-radix",
+  "author": "Ajani James Bilby",
+  "license": "ISC"
+}
