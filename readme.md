@@ -18,3 +18,35 @@ radix.numberToEncoding(42)
 ```
 radix.encodingToNumber(encodedNumber)
 ```
+
+##Add
+```
+var a = radix.convert(4);
+var b = radix.convert(8);
+
+var result = radix.add(a, b);
+```
+
+##Subtract
+```
+var a = radix.convert(4);
+var b = radix.convert(8);
+
+var result = radix.subtract(a, b);
+```
+
+##Multiply
+```
+var a = radix.convert(4);
+var b = radix.convert(8);
+
+var result = radix.multiply(a, b);
+```
+
+##Divide
+```
+var a = radix.convert(4);
+var b = radix.convert(8);
+
+var result = radix.divide(a, b);
+```
